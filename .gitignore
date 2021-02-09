@@ -11,3 +11,11 @@ web-build/
 
 # macOS
 .DS_Store
+config
+
+# env
+.env
+.env.dev
+
+# yarn
+yarn-error.log
